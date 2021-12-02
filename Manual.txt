@@ -10,5 +10,6 @@ Este fastuoso programa permite almacenar los nombres de los alumnos de una clase
 LISTA DE VERSIONES
 ------------------
 1.0 - El programa permite procesar hasta 10 alumnos
-
+3.0 - El programa permite ahora al usuario indicar el nº de alumnos que hay en la clase
+3.1 - Programa final sin fallos
 El programa debe compilar correctamente
