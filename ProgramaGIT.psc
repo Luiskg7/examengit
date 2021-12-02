@@ -15,7 +15,7 @@ Proceso ProgramaGIT
 		
 	// listamos los alumnos
 		
-	Para i<-0 hasta 10
+	Para i<-0 hasta 9
 		Escribir "ALUMNO N? ",i+1,nombre[i];
 	FinPara
 		
